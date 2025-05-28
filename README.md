@@ -22,17 +22,17 @@ mon-projet-php/
 
 1.  **Clone the project**:
     ```bash
-    git clone https://github.com/your-username/mon-projet-php.git
-    cd mon-projet-php
+    [git clone https://github.com/your-username/mon-projet-php.git](https://github.com/abderrahmane-laourf/php-form-session.git)
+    cd php-form-session
     ```
 2.  **Place the folder in XAMPP**:
     Copy this folder to:
     ```makefile
-    C:\xampp\htdocs\mon-projet-php\
+    C:\xampp\htdocs\php-form-session\
     ```
 3.  **Start Apache in XAMPP**, then open the project:
     ```arduino
-    http://localhost/mon-projet-php/formulaire.php
+    http://localhost/php-form-session/formulaire.php
     ```
 
 ## 🔧 Prerequisites
