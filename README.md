@@ -22,7 +22,7 @@ mon-projet-php/
 
 1.  **Clone the project**:
     ```bash
-    [git clone https://github.com/your-username/mon-projet-php.git](https://github.com/abderrahmane-laourf/php-form-session.git)
+    [git clone https://github.com/your-username/mon-projet-php.git]
     cd php-form-session
     ```
 2.  **Place the folder in XAMPP**:
